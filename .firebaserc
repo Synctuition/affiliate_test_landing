@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "gift-1278"
+  },
+  "targets": {
+    "gift-1278": {
+      "hosting": {
+        "affiliate-test-landing": [
+          "affiliate-test-landing"
+        ]
+      }
+    }
+  }
+}
