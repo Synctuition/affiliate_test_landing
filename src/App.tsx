@@ -3,7 +3,7 @@ import './App.css'
 
 const STORAGE_KEY = '_sigmoid_click_id'
 const AUDIT_URL = 'https://api.mindspa.com/api/v4/sigmoid-audit'
-const STRIPE_BASE = 'https://checkout.stripe.com/c/pay/placeholder'
+const STRIPE_BASE = 'https://buy.stripe.com/test_6oUbJ20sZflN1AHaK01Jm0q'
 
 function getClickId(): string | null {
   const params = new URLSearchParams(window.location.search)
